@@ -16,7 +16,7 @@ Source0: 	http://modeemi.cs.tut.fi/~tuomov/ion/dl/%name-2-%version.tar.bz2
 Source1:	http://modeemi.cs.tut.fi/~tuomov/ion/dl/%name-doc-2-%version.tar.bz2
 BuildRoot:	%_tmppath/%name-buildroot
 BuildRequires:  freetype2-devel libltdl-devel
-BuildRequires:  liblua-devel >= 5
+BuildRequires:  liblua-devel >= 5, lua
 BuildRequires:  X11-devel
 BuildRequires:  chrpath perl
 Requires:	xterm
