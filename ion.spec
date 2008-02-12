@@ -24,7 +24,6 @@ Requires:	xterm
 Requires:	X11R6-contrib
 
 %description
-
 Ion was written as an experiment on a different kind of window man-
 agement model and it tries to address the navigation problem by hav-
 ing the screen divided into frames that take up the whole screen and
