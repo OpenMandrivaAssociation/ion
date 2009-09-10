@@ -1,6 +1,6 @@
 %define name    ion
 %define version 20040729
-%define release 4
+%define release 5
 %define prefix  /usr
 
 %define	ionetc  %_sysconfdir/X11/%name
