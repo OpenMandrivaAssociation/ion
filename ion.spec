@@ -1,6 +1,6 @@
 %define name    ion
 %define version 20040729
-%define release 5
+%define release 6
 %define prefix  /usr
 
 %define	ionetc  %_sysconfdir/X11/%name
@@ -20,8 +20,7 @@ BuildRequires:  liblua-devel >= 5, lua
 BuildRequires:  X11-devel
 BuildRequires:  chrpath perl
 Requires:	xterm
-# for xmessage
-Requires:	X11R6-contrib
+Requires:	xmessage
 
 %description
 Ion was written as an experiment on a different kind of window man-
