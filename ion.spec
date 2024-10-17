@@ -11,7 +11,7 @@ Version:	%version
 Release:	%mkrel %release
 Group:		Graphical desktop/Other
 License:	Artistic
-URL: 		http://modeemi.cs.tut.fi/~tuomov/ion/
+URL: 		https://modeemi.cs.tut.fi/~tuomov/ion/
 Source0: 	http://modeemi.cs.tut.fi/~tuomov/ion/dl/%name-2-%version.tar.bz2
 Source1:	http://modeemi.cs.tut.fi/~tuomov/ion/dl/%name-doc-2-%version.tar.bz2
 BuildRoot:	%_tmppath/%name-buildroot
