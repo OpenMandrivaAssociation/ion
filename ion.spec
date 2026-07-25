@@ -1,6 +1,6 @@
 %define name    ion
 %define version 20040729
-%define release 6
+%define release 7
 %define prefix  /usr
 
 %define	ionetc  %_sysconfdir/X11/%name
@@ -8,7 +8,7 @@
 Summary:	Tiling window manager with keyboard-oriented interface
 Name:		%name
 Version:	%version
-Release:	%mkrel %release
+Release:	%release.1
 Group:		Graphical desktop/Other
 License:	Artistic
 URL: 		https://modeemi.cs.tut.fi/~tuomov/ion/
